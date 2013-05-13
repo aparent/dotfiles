@@ -62,4 +62,4 @@ esac
 
 export EDITOR=vim
 export PLAN9=/users/aparent/plan9
-PATH=/users/aparent/bin:$PATH:$PLAN9/bin
+PATH=/users/aparent/bin:~/.cabal/bin:$PATH:$PLAN9/bin
