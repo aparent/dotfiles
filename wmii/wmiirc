@@ -5,7 +5,7 @@ wmiiscript=wmiirc # For wmii.sh
 
 
 # Configuration Variables
-MODKEY=Mod1
+MODKEY=Mod4
 UP=k
 DOWN=j
 LEFT=h
